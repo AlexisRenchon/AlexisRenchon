@@ -6,4 +6,4 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=CUPofTEAproject&show_icons=true&theme=highcontrast)
+![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?organisation=CUPofTEAproject&show_icons=true&theme=highcontrast)
