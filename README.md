@@ -1,8 +1,8 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&labelColor=000000&logo=linux&logoColor=39ff14&color=000000)
-![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VIM-informational?style=flat&logo=vim&labelColor=000000&logoColor=39ff14&color=000000)
+![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&labelColor=000000&logoColor=39ff14&color=000000)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&labelColor=000000&logoColor=39ff14&color=000000)
 
 ## &#x1f4c8; GitHub Stats
 
